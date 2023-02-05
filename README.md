@@ -15,13 +15,8 @@ This is a note taking app where the user is able to write, save and delete notes
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Notes](./assets/Screen%20Shot%202023-02-04%20at%207.46.18%20PM.png)
+![Notes](./assets/Screen%20Shot%202023-02-04%20at%207.46.44%20PM.png)
 
 
 ## License
